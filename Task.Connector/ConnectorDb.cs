@@ -56,5 +56,7 @@ namespace Task.Connector
         }
 
         public ILogger Logger { get; set; }
+
+        /* Some change */
     }
 }
